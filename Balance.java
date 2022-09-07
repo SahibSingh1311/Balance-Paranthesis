@@ -1,3 +1,5 @@
+//Check for balanced parenthesis, If the given string is not balanced then balance it and
+return. string only contain "{" and "}"
 import java.util.*;
 
 public class Balance{
